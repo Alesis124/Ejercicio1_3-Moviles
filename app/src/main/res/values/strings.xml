@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejercicio1_3</string>
+    <string name="colorText">Este texto está escrito en %1$s</string>
+</resources>
